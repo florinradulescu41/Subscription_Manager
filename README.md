@@ -1,4 +1,4 @@
-# Client-Server
+# Subscription Manager (Client-Server)
 TCP/UDP based communication
 
 Communication protocols - Radulescu Florin
