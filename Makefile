@@ -1,6 +1,4 @@
-# Protocoale de comunicatii
-# Tema2
-# Radulescu Florin, 323 CC
+# Radulescu Florin
 # Makefile
 
 CFLAGS = -Wall -g
